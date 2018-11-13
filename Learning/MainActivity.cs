@@ -35,7 +35,7 @@ namespace Learning
             a.forward = "";
             mItems.Add(a);
 
-            mItems.Add(new Person() { user="", topics = "First Application", forward="" });
+            mItems.Add(new Person() { user="", topics = "First Xamarin Application", forward="" });
             mItems.Add(new Person() { user = "", topics = "App Manifest", forward = "" });
             mItems.Add(new Person() { user = "", topics = "Android Resources", forward = "" });
             mItems.Add(new Person() { user = "", topics = "Android Activity Lifecycle", forward = "" });
